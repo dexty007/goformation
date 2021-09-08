@@ -1,7 +1,7 @@
 package iotevents
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // DetectorModel_Sqs AWS CloudFormation Resource (AWS::IoTEvents::DetectorModel.Sqs)

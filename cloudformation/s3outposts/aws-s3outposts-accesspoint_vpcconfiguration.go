@@ -1,7 +1,7 @@
 package s3outposts
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // AccessPoint_VpcConfiguration AWS CloudFormation Resource (AWS::S3Outposts::AccessPoint.VpcConfiguration)

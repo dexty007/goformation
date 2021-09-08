@@ -1,7 +1,7 @@
 package medialive
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // Channel_InputSettings AWS CloudFormation Resource (AWS::MediaLive::Channel.InputSettings)

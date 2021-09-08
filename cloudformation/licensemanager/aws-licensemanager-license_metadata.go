@@ -1,7 +1,7 @@
 package licensemanager
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // License_Metadata AWS CloudFormation Resource (AWS::LicenseManager::License.Metadata)

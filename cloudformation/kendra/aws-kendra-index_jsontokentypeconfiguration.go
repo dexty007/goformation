@@ -1,7 +1,7 @@
 package kendra
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // Index_JsonTokenTypeConfiguration AWS CloudFormation Resource (AWS::Kendra::Index.JsonTokenTypeConfiguration)

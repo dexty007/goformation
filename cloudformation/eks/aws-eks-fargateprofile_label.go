@@ -1,7 +1,7 @@
 package eks
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // FargateProfile_Label AWS CloudFormation Resource (AWS::EKS::FargateProfile.Label)

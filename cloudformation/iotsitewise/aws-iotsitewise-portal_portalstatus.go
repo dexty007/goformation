@@ -1,7 +1,7 @@
 package iotsitewise
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // Portal_PortalStatus AWS CloudFormation Resource (AWS::IoTSiteWise::Portal.PortalStatus)

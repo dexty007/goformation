@@ -1,7 +1,7 @@
 package iot
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // SecurityProfile_Behavior AWS CloudFormation Resource (AWS::IoT::SecurityProfile.Behavior)

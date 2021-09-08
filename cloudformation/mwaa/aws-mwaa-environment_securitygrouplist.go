@@ -1,7 +1,7 @@
 package mwaa
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // Environment_SecurityGroupList AWS CloudFormation Resource (AWS::MWAA::Environment.SecurityGroupList)

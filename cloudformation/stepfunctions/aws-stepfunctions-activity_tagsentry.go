@@ -1,7 +1,7 @@
 package stepfunctions
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // Activity_TagsEntry AWS CloudFormation Resource (AWS::StepFunctions::Activity.TagsEntry)

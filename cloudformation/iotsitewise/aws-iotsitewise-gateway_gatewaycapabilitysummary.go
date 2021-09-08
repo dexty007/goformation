@@ -1,7 +1,7 @@
 package iotsitewise
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // Gateway_GatewayCapabilitySummary AWS CloudFormation Resource (AWS::IoTSiteWise::Gateway.GatewayCapabilitySummary)

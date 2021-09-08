@@ -1,7 +1,7 @@
 package networkfirewall
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // RuleGroup_StatelessRulesAndCustomActions AWS CloudFormation Resource (AWS::NetworkFirewall::RuleGroup.StatelessRulesAndCustomActions)

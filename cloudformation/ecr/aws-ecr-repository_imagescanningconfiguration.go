@@ -1,7 +1,7 @@
 package ecr
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // Repository_ImageScanningConfiguration AWS CloudFormation Resource (AWS::ECR::Repository.ImageScanningConfiguration)

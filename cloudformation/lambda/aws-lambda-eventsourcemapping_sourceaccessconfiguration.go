@@ -1,7 +1,7 @@
 package lambda
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // EventSourceMapping_SourceAccessConfiguration AWS CloudFormation Resource (AWS::Lambda::EventSourceMapping.SourceAccessConfiguration)

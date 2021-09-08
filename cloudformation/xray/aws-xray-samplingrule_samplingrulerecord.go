@@ -1,7 +1,7 @@
 package xray
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // SamplingRule_SamplingRuleRecord AWS CloudFormation Resource (AWS::XRay::SamplingRule.SamplingRuleRecord)

@@ -1,7 +1,7 @@
 package greengrass
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // SubscriptionDefinitionVersion_Subscription AWS CloudFormation Resource (AWS::Greengrass::SubscriptionDefinitionVersion.Subscription)

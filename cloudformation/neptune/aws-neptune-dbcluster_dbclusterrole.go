@@ -1,7 +1,7 @@
 package neptune
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // DBCluster_DBClusterRole AWS CloudFormation Resource (AWS::Neptune::DBCluster.DBClusterRole)

@@ -1,7 +1,7 @@
 package wafv2
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // WebACL_RateBasedStatementOne AWS CloudFormation Resource (AWS::WAFv2::WebACL.RateBasedStatementOne)

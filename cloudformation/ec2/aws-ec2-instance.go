@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
-	"github.com/awslabs/goformation/v4/cloudformation/tags"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/tags"
 )
 
 // Instance AWS CloudFormation Resource (AWS::EC2::Instance)
@@ -46,7 +46,7 @@ type Instance struct {
 	// DisableApiTermination AWS CloudFormation Property
 	// Required: false
 	// See: http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-instance.html#cfn-ec2-instance-disableapitermination
-	DisableApiTermination bool `json:"DisableApiTermination,omitempty"`
+	DisableApiTermination bool `json:"DisableApiTermination"`
 
 	// EbsOptimized AWS CloudFormation Property
 	// Required: false

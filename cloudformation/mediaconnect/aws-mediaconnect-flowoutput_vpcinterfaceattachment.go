@@ -1,7 +1,7 @@
 package mediaconnect
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // FlowOutput_VpcInterfaceAttachment AWS CloudFormation Resource (AWS::MediaConnect::FlowOutput.VpcInterfaceAttachment)

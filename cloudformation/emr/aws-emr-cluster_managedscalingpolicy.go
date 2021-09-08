@@ -1,7 +1,7 @@
 package emr
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // Cluster_ManagedScalingPolicy AWS CloudFormation Resource (AWS::EMR::Cluster.ManagedScalingPolicy)

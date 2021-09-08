@@ -1,7 +1,7 @@
 package ask
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // Skill_SkillPackage AWS CloudFormation Resource (Alexa::ASK::Skill.SkillPackage)

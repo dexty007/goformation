@@ -1,7 +1,7 @@
 package datasync
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // Task_Options AWS CloudFormation Resource (AWS::DataSync::Task.Options)

@@ -1,7 +1,7 @@
 package quicksight
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // Theme_MarginStyle AWS CloudFormation Resource (AWS::QuickSight::Theme.MarginStyle)

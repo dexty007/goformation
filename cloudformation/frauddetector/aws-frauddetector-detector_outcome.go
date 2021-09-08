@@ -1,8 +1,8 @@
 package frauddetector
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
-	"github.com/awslabs/goformation/v4/cloudformation/tags"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/tags"
 )
 
 // Detector_Outcome AWS CloudFormation Resource (AWS::FraudDetector::Detector.Outcome)

@@ -1,7 +1,7 @@
 package applicationinsights
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // Application_WindowsEvent AWS CloudFormation Resource (AWS::ApplicationInsights::Application.WindowsEvent)

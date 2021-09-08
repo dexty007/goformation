@@ -1,7 +1,7 @@
 package cassandra
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // Table_BillingMode AWS CloudFormation Resource (AWS::Cassandra::Table.BillingMode)

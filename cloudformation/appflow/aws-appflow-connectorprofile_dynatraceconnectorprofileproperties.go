@@ -1,7 +1,7 @@
 package appflow
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // ConnectorProfile_DynatraceConnectorProfileProperties AWS CloudFormation Resource (AWS::AppFlow::ConnectorProfile.DynatraceConnectorProfileProperties)

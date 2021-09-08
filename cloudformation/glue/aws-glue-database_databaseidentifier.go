@@ -1,7 +1,7 @@
 package glue
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // Database_DatabaseIdentifier AWS CloudFormation Resource (AWS::Glue::Database.DatabaseIdentifier)

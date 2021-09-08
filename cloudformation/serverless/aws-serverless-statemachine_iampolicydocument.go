@@ -1,7 +1,7 @@
 package serverless
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/dexty007/goformation/v4/cloudformation/policies"
 )
 
 // StateMachine_IAMPolicyDocument AWS CloudFormation Resource (AWS::Serverless::StateMachine.IAMPolicyDocument)
